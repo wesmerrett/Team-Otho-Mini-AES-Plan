@@ -9,3 +9,5 @@ https://drive.google.com/open?id=1JlAvwuAYEQMDnvxImzHN7kpAsCArtkyr
 
 UML Flowcharts
 https://drive.google.com/open?id=11pHBdggnY_eA7htJafOk7TlcxJ1xSFgA
+
+https://docs.google.com/document/d/1RgtH4YwMfdWaeDK14-3LhvILLAmAQNwKzb9YU_jjcwY/edit?usp=sharing
